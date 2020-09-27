@@ -22,4 +22,8 @@ public class ideatest {
 
 
     }
+
+    public void test2(){
+        System.out.println("这higit2修改的");
+    }
 }
